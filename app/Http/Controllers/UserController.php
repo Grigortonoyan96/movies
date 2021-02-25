@@ -51,7 +51,7 @@ class UserController extends Controller
      */
     public function create()
     {
-        return view('myUsers.new_move');
+        return view('myUsers.new_move'); // changes
     }
 
     /**
